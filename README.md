@@ -1,2 +1,1 @@
-# clientes
-lista de cliente locadora
+clientes
